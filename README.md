@@ -23,7 +23,8 @@ I love building clean, functional applications and continuously improving my tec
 - Java  
 - HTML  
 - CSS  
-- JavaScript  
+- JavaScript 
+- Python
 
 ### **Backend & Frameworks**
 - Node.js  

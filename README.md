@@ -62,6 +62,7 @@ I love building **clean and functional applications** and constantly improving m
 ## 📈 Contribution Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=deviparvathy-23&theme=tokyo-night" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deviparvathy-23&layout=compact&theme=tokyo-night">
 </p>
 
 ---

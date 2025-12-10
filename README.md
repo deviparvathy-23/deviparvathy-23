@@ -45,7 +45,7 @@ I love building **clean and functional applications** and constantly improving m
 ## 📊 GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats-deviparvathy.vercel.app/api?username=deviparvathy-23&show_icons=true&theme=tokyonight" />
+ <img src="https://github-readme-stats-opal-two-21.vercel.app/api?username=deviparvathy-23" />
 
 
 </p>
